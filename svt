@@ -1,0 +1,120 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+
+<style> 
+img {
+  width: 270px;
+  /* La hauteur sera ajustée automatiquement */
+}
+
+p {
+  font-size: 30px;
+} 
+ 
+body { float: left;
+
+  background-image: url("https://ichef.bbci.co.uk/news/2048/cpsprodpb/12A14/production/_122580367_gettyimages-936286266.jpg"); 
+
+} 
+
+</style> 
+
+</head> 
+
+<body> 
+
+<h1> <center><p class="texte-blanc">LES BÉBÉS VONT-ILS TUER LA PLANÈTE ?</p><style>
+.texte-blanc {
+    color: white;
+}
+</style></h1> 
+
+<style>
+img {
+  float: left;
+  margin: 0 10px 10px 0;
+}
+</style>
+
+<img p {
+  font-size: 20px;
+} 
+max-width: 20%;
+ max-height: 20%;
+ src="https://image.freepik.com/vecteurs-libre/enfant-qui-question-point-interrogation_59690-285.jpg" alt="Norway">
+
+<p class="texte-blanc"> Depuis des années une phrase est à la bouche de tous les grands média et politicien du monde : Le monde connait un boom de population qui menacerait le monde! Bon cela parait légèrement exagéré... </p>
+
+<p class="texte-blanc"> Si on suit cette logique et qu’on applique un raisonnement simple comme beaucoup on peut en conclure que la “réelle” menace ce sont les bébés !! Puisque ces futurs bébés vont devenir des futurs adultes donc plus d’habitant sur la planète et surtout plus de petits pollueurs. Mais alors... </p>
+<h1><center><p class="texte-blanc">Devrions nous faire moins de bébés pour sauver la planète ?</p><style>
+.texte-blanc {
+    color: white;
+}
+</style></h1>
+
+<p class="texte-blanc"><strong>Reprenons depuis le début !</strong><p>
+
+<img p {
+  font-size: 20px;
+} 
+max-width: 20%;
+ max-height: 20%;
+ src="https://i.pinimg.com/736x/85/26/1f/85261f33e97fbd89c0df049320807782.jpg">
+
+<p class="texte-blanc">La population mondiale compte près de 8 milliards d'habitants en 2020. Elle n'en comptait qu'un milliard en 1800. La croissance de la population est un réel enjeu. Vous ne vous êtes jamais demandez si la planète pourrait supporter une infinité de personnes ? Aurions-nous assez de place ? Assez de ressources pour subvenir à nos besoins ?<p>
+
+<p class="texte-blanc">Le raisonnement était donc que les bébés sont des petites bombes polluantes. Mais en quoi ces petits êtres sont-ils si dangereux ? <p>
+
+
+ <div>
+    <div style="float: right;">
+        <img src="https://i.pinimg.com/originals/ea/b7/1c/eab71cf98be7bfd86ff51b3cec118efe.png" alt= empreinte />
+    </div>
+ 
+
+<p class="texte-blanc">Cette idée repose sur le fait d'accumuler des enfants est synonyme de pollution. En effet, durant toute la grossesse, la mère va acheter, consommer plus donc participer à une empreinte carbone plus importante.(Lorsqu’on parle d’empreinte carbone on entend ici un indicateur qui mesure la quantité de gaz à effet de serre relâchée dans l'atmosphère par une activité humaine). Mais le “réel” effet néfaste d’avoir des enfants serait dans l’après. C’est à dire à la naissance des bébés puisqu’ils nécessiteront beaucoup d’entretien. Et enfin de compte cela reviendrait à élever des futurs pollueurs en plus de développer la population. Ces enfants deviendront adultes et donc de futur consommateur et par extensions des pollueurs actifs.<p>
+
+ <div>
+    <img p {
+  font-size: 20px;
+} 
+max-width: 20%;
+ max-height: 20%;
+ src="https://th.bing.com/th/id/R.9e9ce860fef33a3a36531a012f2ae4a5?rik=E4zrJcuntchvYg&riu=http%3a%2f%2f4.bp.blogspot.com%2f-XrD1PIitV3k%2fU2Xyit5d0yI%2fAAAAAAAABQQ%2f91xas9HPrqs%2fs1600%2fterre5.jpg&ehk=g37QCTHUfod70j2o8PJ0kCF2Xvf74qyUW7ONiYAShdc%3d&risl=&pid=ImgRaw&r=0" alt="enfants">
+    </div>
+
+
+<p class="texte-blanc">Pour résumer ce premier point les bébés sont avant tout de futurs adultes et sous cet angle on en déduit bien qu’ils auront un impact sur l’effet de serre. Mais lorsqu’on parle sur ce genre de sujet c’est assez délicat puisqu’on aborde une question vaste sur la société et sur la morale. 
+On parle depuis tout à l’heure du trop-plein de la planète mais donc qu’elle serait une solution possible ? Régulez la naissance (c’est une belle manière de dire contrôler les naissances). Mais qui voudrais vivre dans un pays qui pourrait décider de la vie ou mort d’individus, c’est réellement une question qui traite de l’aspect moral. Puisque décider de limiter le nombre d'enfants pourrait être vu comme une sorte d'intervention dans le droit fondamental des gens à avoir une famille. En gros, ça signifie que dire aux gens combien d'enfants ils peuvent avoir n’est pas du tout correct c’est une véritable atteinte à la liberté. </p>
+
+
+<p class="texte-blanc">Mais en réalité la responsabilité principale du changement climatique repose davantage sur les pays riches et puissants économiquement que sur ceux où les familles ont plus d'enfants. Donc c'est en vérité les pays qui produisent le plus de pollution sont souvent les plus riches, mais ce sont aussi ceux qui ont moins d'enfants en moyenne. Donc, c'est un peu injuste de pointer du doigt les familles nombreuses comme étant la cause principale du problème. En résumé, ils ont souligné qu'il est important de voir le problème dans son ensemble et de ne pas mettre toute la responsabilité sur les familles.</p>
+
+<h1><center><p class="texte-blanc">Rigolons un peu avant de finir!</p>
+
+
+<video width="400" controls> 
+
+  <source src="mov_bbb.mp4" type="video/mp4"> 
+
+  <source src="mov_bbb.ogg" type="video/ogg"> 
+
+</video> 
+
+
+
+<style>
+.texte-blanc {
+    color: white;
+}
+</style>
+
+</iframe> 
+
+
+</body> 
+
+</html>
